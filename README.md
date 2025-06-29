@@ -10,7 +10,7 @@
 ![Pratikkumar_Beta_Current_Multiplier_Circuit_and_Bandgap_Voltage_Reference_Circuit-images-7](https://github.com/user-attachments/assets/dc58140b-5fc8-4eb8-a7f3-e52c89d8f14c)
 ![Pratikkumar_Beta_Current_Multiplier_Circuit_and_Bandgap_Voltage_Reference_Circuit-images-8](https://github.com/user-attachments/assets/e94c29e2-c7e5-46c5-8fca-14dd92e746a6)
 
-* Design and Simulation:
+# Design and Simulation:
 
 ![Pratikkumar_Beta_Current_Multiplier_Circuit_and_Bandgap_Voltage_Reference_Circuit-images-10](https://github.com/user-attachments/assets/5e4d7b56-1909-4821-8cbd-0dc962ded006)
 ![Pratikkumar_Beta_Current_Multiplier_Circuit_and_Bandgap_Voltage_Reference_Circuit-images-11](https://github.com/user-attachments/assets/b7baaf3a-0c75-4abf-baa4-9004fd8964c8)
